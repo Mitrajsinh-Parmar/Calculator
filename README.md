@@ -9,7 +9,6 @@ A sleek, responsive, and fully functional web calculator built using **HTML5, CS
 * **Basic Arithmetic:** Supports addition, subtraction, multiplication, and division.
 * **Decimal Support:** Handles floating-point calculations.
 * **Clear Functionality:** Reset the display with a single click (AC/C).
-
 ---
 
 ## 🛠️ Built With
@@ -17,15 +16,6 @@ A sleek, responsive, and fully functional web calculator built using **HTML5, CS
 * **HTML5:** Structural layout and button mapping.
 * **CSS3:** Custom styling, Flexbox/Grid layout, and hover animations.
 * **JavaScript (ES6):** Logic for calculations and DOM manipulation.
-
----
-
-## 💡 How It Works
-
-The calculator uses a combination of event listeners to capture button clicks. The logic is handled by:
-1.  Capturing the input string.
-2.  Processing the operators using JavaScript's mathematical logic.
-3.  Updating the display area dynamically using `innerHTML` or `value`.
 
 ---
 
